@@ -1,0 +1,1039 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  /* border: 1px solid red; */
+}
+
+/* mobile part */
+.maincontainer {
+  height: 2741px;
+  width: 375px;
+  margin: 0 auto;
+  border-radius: 0px;
+  background: rgba(255, 255, 255, 1);
+}
+
+.crownofpage {
+  display: inline-block;
+
+  height: 24px;
+  width: 327px;
+  margin-left: 24px;
+  margin-top: 24px;
+  border-radius: 0px;
+}
+.fyloandshapesbox {
+  display: inline-block;
+
+  display: flex;
+  height: 24px;
+  width: 80px;
+  margin-left: 0px;
+  margin-top: 0px;
+  border-radius: 0px;
+}
+.fyloshapes {
+  height: 22px;
+  width: 27px;
+  margin-left: 0px;
+  margin-top: 0px;
+  border-radius: 0px;
+}
+.fylotextheader {
+  height: 23px;
+  width: 45px;
+  margin-left: 7px;
+  margin-top: 0px;
+  border-radius: 0px;
+}
+
+.featuresheadertext {
+  display: inline-block;
+
+  height: 14px;
+  width: 49px;
+  margin-left: 80px;
+  margin-top: 5px;
+  font-family: "Raleway";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(7, 4, 59, 1);
+}
+
+.teamheadertext {
+  display: inline-block;
+
+  height: 14px;
+  width: 49px;
+  margin-left: 24px;
+  margin-top: 5px;
+  font-family: "Raleway";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(7, 4, 59, 1);
+}
+
+.signinheadertext {
+  display: inline-block;
+  height: 14px;
+  white-space: nowrap;
+  margin-left: 20px;
+  margin-top: 5px;
+  font-family: "Raleway";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(7, 4, 59, 1);
+}
+
+/* mobile middle part */
+.middlecontainer {
+  height: 609px;
+  width: 320px;
+  margin-top: 100px;
+  margin-left: 25px;
+
+  border-radius: 0px;
+}
+
+.folderwithpeople {
+  height: 225px;
+  width: 304px;
+  margin-left: 7px;
+  margin-top: 0px;
+  border-radius: 0px;
+}
+
+.allyourfilestext {
+  display: inline-block;
+  height: 108px;
+  width: 320px;
+  margin-left: 0px;
+  margin-top: 40px;
+  font-family: "Open Sans";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: rgba(7, 4, 59, 1);
+}
+
+.fylostorestext {
+  display: inline-block;
+  height: 84px;
+  width: auto;
+  margin-left: 0px;
+  margin-top: 24px;
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: rgba(7, 4, 59, 1);
+}
+
+.enteryouremailbox {
+  height: 40px;
+  width: 304px;
+  display: inline-block;
+  border-radius: 3.125px;
+
+  margin-left: 7px;
+  margin-top: 28px;
+  border: 0.63px solid rgba(7, 4, 59, 1);
+  box-shadow: 2px 3px 6px 0px rgba(0, 0, 0, 0.16);
+}
+
+.pleaseenteryourmailtext {
+  height: 14px;
+  width: 102px;
+
+  font-family: "Raleway";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0.4000000059604645px;
+  text-align: left;
+  color: rgba(194, 194, 194, 1);
+}
+
+.getstartedbutton {
+  height: 40px;
+  width: 304px;
+  margin-left: 7px;
+  margin-top: 10px;
+  border-radius: 3.125px;
+  background: rgba(47, 101, 248, 1);
+  box-shadow: 2px 3px 6px 0px rgba(0, 0, 0, 0.16);
+  border: none;
+
+  font-family: "Raleway";
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+}
+/* .getstartedtext {
+  display: inline-block;
+  height: 16px;
+  width: 78px;
+  margin-left: 0px;
+  margin-top: 0px;
+  font-family: "Raleway";
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+} */
+/* mobile under middle container - stay productive  */
+.undermiddlecontainer {
+  height: 961px;
+  width: 375px;
+  margin-left: 0px;
+  margin-top: 90px;
+
+  background: rgba(248, 248, 254, 1);
+}
+
+.threepersonholdingsomething {
+  height: 241px;
+  width: 320px;
+  margin-left: 28px;
+  margin-top: 93px;
+  border-top: 0px;
+}
+
+.stayproductivetext {
+  display: inline-block;
+  height: 24px;
+  width: 259px;
+  margin-left: 59px;
+  margin-top: 87px;
+  font-family: "Raleway";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: rgba(7, 4, 59, 1);
+}
+
+.neverletlocationtext {
+  display: inline-block;
+  height: 63px;
+  width: 320px;
+  margin-left: 20px;
+  margin-top: 24px;
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: rgba(97, 95, 126, 1);
+}
+
+.securelysharetext {
+  display: inline-block;
+
+  height: 63px;
+  width: 320px;
+  margin-left: 20px;
+  margin-top: 16px;
+  font-family: Open Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: rgba(97, 95, 126, 1);
+}
+
+.seehowfyloworkstext {
+  display: inline-block;
+  height: 16px;
+  width: 110px;
+  margin-left: 123px;
+  margin-top: 36px;
+  font-family: "Open Sans";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(61, 160, 143, 1);
+}
+
+.seehowFyloworksarrow {
+  display: flex;
+  height: 12px;
+  width: 12px;
+  margin-left: 241px;
+  margin-top: -16px;
+  border-radius: 0px;
+}
+
+.lineunderseehowitworks {
+  height: 1px;
+  width: 130px;
+  margin-left: 123px;
+  margin-top: 11px;
+  border-radius: 0px;
+  background: rgba(61, 160, 143, 1);
+}
+
+.boxwithfylotextandprofilephoto {
+  height: 169px;
+  width: 280px;
+  margin-left: 48px;
+  margin-top: 40px;
+  border-radius: 4px;
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0px 0px 8px 4px rgba(56, 56, 56, 0.05);
+}
+
+.bracet {
+  display: inline-block;
+
+  height: 20px;
+  width: 15px;
+  margin-left: 26px;
+  margin-top: 9px;
+  font-family: "Nunito Sans";
+  font-size: 35px;
+  font-weight: 400;
+  line-height: 53px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.fylohasimprovedtext {
+  display: inline-block;
+  height: 73px;
+  width: 241px;
+  margin-left: 26px;
+  margin-top: -10px;
+  font-family: "Open Sans";
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0.38461539149284363px;
+  text-align: left;
+  color: rgba(7, 4, 59, 1);
+}
+
+.profilebox {
+  display: flex;
+  flex-direction: row;
+  height: 27px;
+  width: 105px;
+  margin-left: 25px;
+  margin-top: 11px;
+  border-radius: 0px;
+}
+
+.nametext {
+  display: flex;
+  white-space: nowrap;
+  display: inline-block;
+  height: 12px;
+  width: 58px;
+  margin-left: 7px;
+  margin-top: 0px;
+  font-family: "Open Sans";
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 12px;
+  letter-spacing: 0.44999998807907104px;
+  text-align: left;
+  color: rgba(7, 4, 59, 1);
+}
+
+.founderandceotext {
+  display: flex;
+  white-space: nowrap;
+  display: inline-block;
+  height: 12px;
+  width: 93px;
+  margin-left: -60px;
+  margin-top: 15px;
+  font-family: "Open Sans";
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 12px;
+  letter-spacing: 0.30000001192092896px;
+  text-align: left;
+  color: rgba(7, 4, 59, 1);
+}
+
+.beforethelastcontainerwithmail {
+  height: 345px;
+  width: 375px;
+  margin-left: 0px;
+  margin-top: 0px;
+  border-radius: 0px;
+  background: rgba(87, 89, 136, 1);
+}
+.getearlyaccesstext {
+  display: inline-block;
+  height: 24px;
+  width: 195px;
+  margin-left: 89px;
+  margin-top: 54px;
+  font-family: "Raleway";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+}
+
+.itonlytakestext {
+  display: inline-block;
+
+  height: 84px;
+  width: 280px;
+  margin-left: 48px;
+  margin-top: 16px;
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0px;
+  text-align: center;
+
+  color: rgba(255, 255, 255, 1);
+}
+
+.enteryouremailboxtwo {
+  height: 40px;
+  width: 304px;
+  display: inline-block;
+  border-radius: 3.125px;
+
+  margin-left: 33px;
+  margin-top: 28px;
+  border: 0.63px solid rgba(7, 4, 59, 1);
+  box-shadow: 2px 3px 6px 0px rgba(0, 0, 0, 0.16);
+}
+
+.pleaseenteryourmailtexttwo {
+  height: 14px;
+  width: 102px;
+
+  font-family: "Raleway";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0.4000000059604645px;
+  text-align: left;
+  color: rgba(194, 194, 194, 1);
+}
+
+.getstartedbuttontwo {
+  height: 40px;
+  width: 304px;
+  margin-left: 33px;
+  margin-top: 10px;
+  border-radius: 3.125px;
+  background: rgba(47, 101, 248, 1);
+  box-shadow: 2px 3px 6px 0px rgba(0, 0, 0, 0.16);
+  border: none;
+}
+.getstartedtexttwo {
+  display: inline-block;
+  white-space: nowrap;
+  height: 16px;
+  width: 78px;
+  margin-left: -30px;
+  margin-top: 0px;
+  font-family: "Raleway";
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+}
+
+.footercontainer {
+  display: flex;
+
+  height: 590px;
+  width: 375px;
+
+  border-radius: 0px;
+  background: rgba(7, 4, 59, 1);
+}
+
+.footershapenexttofylo {
+  display: flex;
+
+  height: 29px;
+  width: 36px;
+  margin-left: 39px;
+  margin-top: 65px;
+  border-radius: 0px;
+}
+
+.footerfylo {
+  display: flex;
+
+  height: 30px;
+  width: 59px;
+  margin-left: 10px;
+  margin-top: 65px;
+  border-radius: 0px;
+}
+.phoneandmailboxfooter {
+  display: flex;
+
+  height: 64px;
+  width: 222px;
+  margin-left: -110px;
+  margin-top: 127px;
+  border-radius: 0px;
+}
+
+.phoneshape {
+  display: flex;
+  position: absolute;
+  height: 24px;
+  width: 24px;
+  margin-left: -5px;
+  margin-top: 0px;
+  border-radius: 0px;
+}
+
+.phonenumber {
+  display: inline-block;
+  white-space: nowrap;
+  display: flex;
+  position: absolute;
+
+  height: 24px;
+  width: 182px;
+  margin-left: 22px;
+  margin-top: 0px;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+}
+
+.mailshape {
+  display: flex;
+  position: absolute;
+
+  height: 24px;
+  width: 24px;
+  margin-left: -5px;
+  margin-top: 40px;
+  border-radius: 0px;
+}
+
+.mailaddress {
+  display: flex;
+  position: absolute;
+
+  height: 24px;
+  width: 143px;
+  margin-left: 22px;
+  margin-top: 40px;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+}
+
+.aboutusbox {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 136px;
+  width: 69px;
+  margin-left: -225px;
+  margin-top: 223px;
+  border-radius: 0px;
+}
+
+.aboutusboxtext {
+  display: inline-block;
+  height: 22px;
+  width: 69px;
+  left: 0px;
+  top: 0px;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+}
+
+.contactusbox {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 98px;
+  width: 81px;
+  margin-left: -70px;
+  margin-top: 391px;
+  border-radius: 0px;
+}
+
+.contactusboxtext {
+  display: inline-block;
+  height: 22px;
+  width: 69px;
+  left: 0px;
+  top: 0px;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  white-space: nowrap;
+}
+
+.socialnetworkdiv {
+  display: flex;
+  height: 27px;
+  width: 104px;
+  margin-left: 36px;
+  margin-top: 521px;
+  border-radius: 0px;
+}
+
+.facebook {
+  height: 27px;
+  width: 28.044944763183594px;
+  margin-left: 0px;
+  margin-top: 0px;
+  border-radius: 0px;
+}
+.twitter {
+  height: 27px;
+  width: 28.044944763183594px;
+  margin-left: 10px;
+  margin-top: 0px;
+  border-radius: 0px;
+}
+
+.instagram {
+  height: 27px;
+  width: 28px;
+  margin-left: 10px;
+  margin-top: 0px;
+  border-radius: 0px;
+}
+.pleasecheck {
+  display: inline-block;
+  position: absolute;
+  height: 16px;
+  width: 143px;
+  margin-left: -305px;
+  margin-top: -1230px;
+  font-family: "Open Sans";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0.40000003576278687px;
+  text-align: left;
+  color: rgba(239, 72, 119, 1);
+}
+.pleasecheck {
+  display: none;
+}
+
+/* desktop part */
+@media only screen and (min-width: 1440px) {
+  .maincontainer {
+    height: 2335px;
+    width: 1440px;
+    border-radius: 0px;
+  }
+  .pleasecheck {
+    display: inline-block;
+    position: absolute;
+    height: 16px;
+    width: 143px;
+    margin-left: 80px;
+    margin-top: -930px;
+    font-family: "Open Sans";
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.40000003576278687px;
+    text-align: left;
+    color: rgba(239, 72, 119, 1);
+  }
+  .pleasecheck {
+    display: none;
+  }
+  .crownofpage {
+    height: 49px;
+    width: 1280px;
+    margin-left: 80px;
+    margin-top: 65px;
+    border-radius: 0px;
+  }
+  .fyloandshapesbox {
+    height: 49px;
+    width: 166px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 0px;
+  }
+  .fyloshapes {
+    height: 46px;
+    width: 56px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 0px;
+  }
+
+  .fylotextheader {
+    height: 49px;
+    width: 94px;
+    margin-left: 16px;
+    margin-top: 0px;
+    border-radius: 0px;
+  }
+
+  .featuresheadertext {
+    height: 19px;
+    width: 65px;
+    margin-left: 843px;
+    margin-top: 15px;
+    font-family: "Raleway";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+  .teamheadertext {
+    height: 19px;
+    width: 65px;
+    margin-left: 57px;
+    margin-top: 15px;
+    font-family: "Raleway";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+  .signinheadertext {
+    height: 19px;
+    width: 65px;
+    margin-left: 57px;
+    margin-top: 15px;
+    font-family: "Raleway";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+  .middlecontainer {
+    position: relative;
+    height: 474px;
+    width: 1280px;
+    margin-left: 80px;
+    margin-top: 200px;
+    border-radius: 0px;
+  }
+  .folderwithpeople {
+    position: absolute;
+
+    height: 474px;
+    width: 640px;
+    margin-left: 638px;
+    margin-top: 0px;
+    border-radius: 0px;
+  }
+  .allyourfilestext {
+    position: absolute;
+
+    height: 120px;
+    width: 627px;
+    margin-left: 0px;
+    margin-top: 77px;
+    font-family: "Raleway";
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+  .fylostorestext {
+    position: absolute;
+
+    height: 72px;
+    width: 585px;
+    margin-left: 0px;
+    margin-top: 212px;
+    font-family: "Open Sans";
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.53125px;
+    text-align: left;
+  }
+
+  .enteryouremailbox {
+    height: 45px;
+    width: 320px;
+    margin-left: 0px;
+    margin-top: 323px;
+    border-radius: 3.125px;
+  }
+
+  .undermiddlecontainer {
+    position: relative;
+    height: 837.8743896484375px;
+    width: 1440px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 0px;
+  }
+  .threepersonholdingsomething {
+    position: absolute;
+    height: 409px;
+    width: 542px;
+    margin-left: 818px;
+    margin-top: 202px;
+    border-radius: 0px;
+  }
+  .stayproductivetext {
+    position: absolute;
+
+    height: 47px;
+    width: 648px;
+    margin-left: 80px;
+    margin-top: 178px;
+    font-family: "Raleway";
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+  .neverletlocationtext {
+    position: absolute;
+
+    height: 48px;
+    width: 529px;
+    margin-left: 80px;
+    margin-top: 263px;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+
+  .securelysharetext {
+    position: absolute;
+
+    height: 48px;
+    width: 529px;
+    margin-left: 80px;
+    margin-top: 327px;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+
+  .seehowfyloworkstext {
+    position: absolute;
+    height: 22px;
+    width: 146px;
+    margin-left: 80px;
+    margin-top: 390px;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+  .seehowFyloworksarrow {
+    position: absolute;
+
+    height: 12px;
+    width: 12px;
+    margin-left: 234px;
+    margin-top: 397px;
+    border-radius: 0px;
+  }
+  .lineunderseehowitworks {
+    position: absolute;
+    height: 1px;
+    width: 166px;
+    margin-left: 80px;
+    margin-top: 416px;
+    border-radius: 0px;
+  }
+
+  .boxwithfylotextandprofilephoto {
+    position: absolute;
+
+    height: 215px;
+    width: 356px;
+    margin-left: 80px;
+    margin-top: 462px;
+    border-radius: 5px;
+  }
+  .fylohasimprovedtext {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: -12px;
+  }
+  .profilebox {
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 25px;
+  }
+  .beforethelastcontainerwithmail {
+    position: relative;
+    height: 369.7149658203125px;
+    width: 1440px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 0px;
+  }
+
+  .getearlyaccesstext {
+    position: absolute;
+    height: 48px;
+    width: 347px;
+    margin-left: 80px;
+    margin-top: 100px;
+    font-family: "Raleway";
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+  .itonlytakestext {
+    position: absolute;
+
+    height: 72px;
+    width: 533px;
+    margin-left: 80px;
+    margin-top: 165px;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+  .enteryouremailboxtwo {
+    position: absolute;
+
+    height: 48px;
+    width: 480px;
+    margin-left: 840px;
+    margin-top: 112px;
+    border-radius: 3.125px;
+  }
+  .getstartedbuttontwo {
+    position: absolute;
+    margin-left: 840px;
+    margin-top: 176px;
+  }
+  .getstartedtexttwo {
+    height: 16px;
+    width: 156px;
+
+    font-family: "Raleway";
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0px;
+    text-align: center;
+  }
+  .footercontainer {
+    height: 391px;
+    width: 1440px;
+
+    border-radius: 0px;
+  }
+  .footershapenexttofylo {
+    height: 37px;
+    width: 46px;
+    margin-left: 80px;
+    margin-top: 93px;
+    border-radius: 0px;
+  }
+  .footerfylo {
+    height: 39px;
+    width: 76px;
+    margin-left: 13px;
+    margin-top: 92px;
+    border-radius: 0px;
+  }
+  .phoneandmailboxfooter {
+    margin-top: 150px;
+    margin-left: -130px;
+  }
+  .aboutusbox {
+    position: absolute;
+    height: 136px;
+    width: 69px;
+    margin-left: 524px;
+    margin-top: 169px;
+    border-radius: 0px;
+  }
+  .contactusbox {
+    position: absolute;
+
+    height: 98px;
+    width: 81px;
+    margin-left: 793px;
+    margin-top: 169px;
+    border-radius: 0px;
+  }
+  .socialnetworkdiv {
+    position: absolute;
+
+    height: 31px;
+    width: 120px;
+    margin-left: 1059px;
+    margin-top: 170px;
+    border-radius: 0px;
+  }
+}
